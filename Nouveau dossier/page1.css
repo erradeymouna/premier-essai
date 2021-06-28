@@ -1,0 +1,19 @@
+body{
+    background-color: bisque;
+}
+table
+{
+    border-collapse: collapse;
+    caption-side: bottom;
+}
+td, th 
+{
+    border: 1px solid black;
+}
+div {
+    background: indianred;
+}
+span{
+    color: indigo; 
+    font-size: 20px;
+}
